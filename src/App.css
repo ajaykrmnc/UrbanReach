@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  
+}
+
+.App-link {
+  color: #61dafb;
+
+}
+
+.navh:hover{
+ background-color: white;
+ color: green;
+}
+.nav-links {
+  display: inline-block;
+  height: 50px;
+  color: green; /*will change color of text within the element */
+  }
+  
+  .nav-links:hover {
+  background-color: orange; /*will change background-color of element on hover */
+  color: white; /*will change color of text within the element on hover */
+  }
+
+  

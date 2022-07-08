@@ -1,0 +1,102 @@
+.centered {
+ 
+    left: 10%;
+    margin-top: 5%;
+}
+
+.h2x
+{
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+    
+.row{
+    position: relative;
+    overflow: hidden;
+    padding-top: 0px;
+    
+}
+.text
+{
+    padding-left: 0%;
+    padding-right: 0%;
+
+}
+
+.leftbox
+{
+    text-align: center;
+    /* font-family: 'chivoregular'; */
+    font-size: 16px;
+    max-width: 60%;
+    top: 50%;
+    text-align: center;
+
+}
+.rightbox
+{
+    position: relative;
+    left: 0;
+    right: 0;
+    color: #000;
+    padding-left: 0%;
+    padding-right: 0;
+    margin-left: 0;
+}
+
+.getintouch1
+{
+    width: 100%;
+    /* top | right | bottom | left */
+    background-color: rgba(0, 187, 106, 0.6);
+    position: absolute;
+    z-index: 20;
+    height: 100%;
+    padding: 8% 10% 20% 10%;
+  
+
+}
+.getintouch2
+{
+    width: 100%;
+    /* top | right | bottom | left */
+    padding: 8% 10% 20% 10%;
+    background-color: rgba(233, 185, 70, 0.6);
+    z-index: 20;
+    position: absolute;
+    height: 100%;
+    border-radius: 7px;
+  
+
+}
+.rightbox img
+{
+    height: 100%;
+    width: 100%;
+    padding-top: 0px;
+}
+.pic1
+{
+    position: relative;
+    padding-left: 0%;
+    padding-right: 0%!important;
+}
+
+.pic2
+{
+    position: relative;
+    padding-left: 0%;
+    padding-right: 0%!important;
+}
+.rightbox p
+{
+    color: white;
+    font-weight: 500;
+}
+.rightbox h5
+{
+    color: white;
+    font-weight: bold;
+}
+  

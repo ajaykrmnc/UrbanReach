@@ -14,11 +14,10 @@ const uploadRouter = require("./Routes/Fileupload");
 const app = express();
 
 // db
-mongoose.connect("mongodb://localhost:27017/urbanreach",function(err, db) {
+mongoose.connect(process.env.CONNECTION_URL,function(err, db) {
   if (err) throw err;
-  console.log("Database created!");
+  console.log("Database connected!");
 });
-
 
 
 // middlewares

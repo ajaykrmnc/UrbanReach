@@ -1,0 +1,52 @@
+.container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .resume-title {
+    font-size: 24px;
+    color: #28a745;
+    margin-bottom: 10px;
+  }
+  
+  .resume-card {
+    background-color: #f8f9fa;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .resume-card h1,
+  .resume-card h4,
+  .resume-card h6 {
+    margin: 0;
+    margin-bottom: 5px;
+  }
+  
+  .resume-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .resume-button a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .resume-button:hover {
+    background-color: #0056b3;
+    box-shadow: 0 2px 4px rgba(0, 123, 255, 0.4);
+  }
+  
+  .resume-button:active {
+    transform: translateY(1px);
+  }
+  

@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91e3044d.css",
+    "main.js": "/static/js/main.066ab5ec.js",
+    "static/media/ur1.png": "/static/media/ur1.82dc28e9a2165d29c51e.png",
+    "static/media/front.png": "/static/media/front.32b747b53346fe92d415.png",
+    "static/media/newspaper.jpg": "/static/media/newspaper.1086dd7162a7aa3149cd.jpg",
+    "static/media/Map3.png": "/static/media/Map3.ae572a52887f5a65e3c9.png",
+    "static/media/farmer2.jpeg": "/static/media/farmer2.92b90048ea93079a248f.jpeg",
+    "static/media/sanjeet.jpg": "/static/media/sanjeet.3ad3f4873c5fd6fc65be.jpg",
+    "static/media/bhusan.jpeg": "/static/media/bhusan.e3185e08b0d2f5a8ec8d.jpeg",
+    "static/media/av.jpeg": "/static/media/av.4082c2d0b2b955f5266e.jpeg",
+    "static/media/fwt.jpg": "/static/media/fwt.a063b676862d9c551d34.jpg",
+    "static/media/farmer.jpeg": "/static/media/farmer.2c4ecd8089044a4a653a.jpeg",
+    "static/media/farming.jpg": "/static/media/farming.b18b5fb10f8b30e085a4.jpg",
+    "static/media/headquarter (1).png": "/static/media/headquarter (1).3d0a087114b6805bcfae.png",
+    "static/media/sad farmer.jpg": "/static/media/sad farmer.680d58123fcc6e95a144.jpg",
+    "static/media/logo.png": "/static/media/logo.62c82e3a1e75af34ca20.png",
+    "static/media/fof.jpg": "/static/media/fof.918b55ceaae91b383825.jpg",
+    "index.html": "/index.html",
+    "main.91e3044d.css.map": "/static/css/main.91e3044d.css.map",
+    "main.066ab5ec.js.map": "/static/js/main.066ab5ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91e3044d.css",
+    "static/js/main.066ab5ec.js"
+  ]
+}

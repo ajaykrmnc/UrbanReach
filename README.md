@@ -1,6 +1,6 @@
 # UrbanReach
 
-![UrbanReach Logo](https://github.com/ajaykrmnc/ur-bend-fend/tree/main/ur-client/src/Component/pic/logo.png)
+![UrbanReach Logo](https://media.licdn.com/dms/image/C4D0BAQHCrJ5ISvAluA/company-logo_200_200/0/1653283411007?e=1694649600&v=beta&t=G3WS63xM9ROVnyQgR-Vs3f_aqpEQytviNIvbAkk7WZM)
 
 Urban Reach is India's largest Fresh Produce Supply Chain Company. We are pioneers in solving one of the toughest supply chain problems of the world by leveraging innovative technology. We source fresh produce from farmers and deliver them to businesses within 12 hours.. This repository contains the source code for our web application, which serves as a central hub for our users to access information, manage their urban farms, and connect with other urban farmers.
 
@@ -37,10 +37,10 @@ Visit the live website: [urbanreach.netlify.app](https://urbanreach.netlify.app)
 2. Install the dependencies for both the frontend and backend:
 
    ```bash
-   cd urbanreach/frontend
+   cd urbanreach/client
    npm install
 
-   cd ../backend
+   cd ../server
    npm install
    ```
 
@@ -48,7 +48,7 @@ Visit the live website: [urbanreach.netlify.app](https://urbanreach.netlify.app)
 
    ```plaintext
    PORT=3000
-   MONGODB_URI=<your_mongodb_uri>
+   CONNECTION_URL=<your_mongodb_uri>
    ```
 
 4. Start the development servers:
